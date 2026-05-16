@@ -1,6 +1,6 @@
 {
-  "id": 3,
+  "id": 4,
   "title": "🛑 Thông báo!",
-  "message": "Bạn thân mến,<br><br>Bản cập nhật 2.2 đã ra mắt; bạn cần cập nhật để có bản vá và tối ưu mới nhất<br><br>Bạn có hiểu không🌻✨<br><br><i>OK dev</i>",
-  "show_always": true
+  "message": "Bạn thân mến,<br><br>Bản cập nhật 2.3 chuẩn bị phát hành với những cải thiện hữu ích cho trải nghiệm người dùng<br><br>Và cái thông báo này sẽ ko hiện thường xuyên nữa<br><br><i>OK dev</i>",
+  "show_always": false
 }
