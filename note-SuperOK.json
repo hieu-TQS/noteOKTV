@@ -1,1 +1,6 @@
-note
+{
+  "id": 1,
+  "title": "📢 THÔNG BÁO",
+  "message": "⚠️ Super OK là ứng dụng trình phát đa phương tiện miễn phí và không cung cấp sẵn nội dung hoặc dịch vụ IPTV/movies.<br><br>🚫 Một số ứng dụng giả mạo hoặc phiên bản chỉnh sửa (MOD) đang tự ý thêm nguồn nội dung, quảng cáo hoặc dịch vụ trả phí dưới. Đây không phải phiên bản chính thức từ nhà phát triển.<br><br>🔒 Vui lòng cẩn trọng với các ứng dụng không rõ nguồn gốc để tránh rò rỉ dữ liệu hoặc lừa đảo.<br><br><div style='text-align:center;opacity:0.85;'><i>💙 Cảm ơn bạn đã sử dụng các sản phẩm của Ok_Dev</i></div>",
+  "show_always": false
+}
